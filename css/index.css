@@ -5,3 +5,8 @@ p {
 	font-weight: bold;
 	font-size: 22px;
 }
+
+.cls {
+	font-size: 20px;
+	width: 200px;
+}
